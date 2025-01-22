@@ -1,0 +1,6 @@
+Pokemon unite rekisteri
+; Kenttien järjestys tiedostossa on seuraava:
+;Pokemonin nimi     |Pelatut ottelut|voitot      |häviöt     |Rooli
+1  |Venusaur        |10             |6           |4          |attacker
+2  |Eldegoss        |20             |12          |8          |support
+3  |Sylveon         |8              |3           |5          |attacker
